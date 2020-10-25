@@ -1,0 +1,31 @@
+@charset "utf-8"; 
+
+h1 {
+
+    font-family: cursive; /* fontes diferentes para o titulo */
+    text-align: center; /* alinhamento no centro. direita = right , esquerda = lefth. */
+    background-color: #edc4b3; /*cor de fundo */
+
+}
+
+article {
+
+    text-align: center;
+
+}
+
+body {
+
+    background-color: #cd9777;
+    
+}
+
+footer {
+
+    text-align: center;
+
+}
+
+
+
+
